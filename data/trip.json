@@ -1,0 +1,10 @@
+{
+   "startingDate" : "05/18/2022",
+   "startingKm": 14500,
+   "actualKm" : 15967,
+   "lastUpdate" : "07/06/2022",
+   "visitedCountry": ["IT", "CH", "DE", "DK", "AT"],
+   "currentCountry": ["DE"]
+   
+}
+  

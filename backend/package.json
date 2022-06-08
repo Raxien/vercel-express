@@ -16,6 +16,8 @@
   "dependencies": {
     "compression": "^1.7.4",
     "express": "^4.17.3",
-    "helmet": "^5.0.2"
+    "helmet": "^5.0.2",
+    "path": "^0.12.7",
+    "splitwise": "^1.0.0"
   }
 }
